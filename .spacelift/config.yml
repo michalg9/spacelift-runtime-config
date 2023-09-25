@@ -6,4 +6,5 @@ stack_defaults:
 stacks:
   opentfruntimeconfigtests:
     terraform_version: 1.5.7
+    terraform_workflow_tool: TERRAFORM_FOSS
 
